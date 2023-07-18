@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<header>
+  <p>angélo arrigoni</p>
+  <img src>
+</header>
+
+<body>
+  <div>
+    <p>age: 13 ans</p>
+    <p>classe: 4eme</p>
+    <p>etablissement: college reynier (six-fours le plages)</p>
+    <p>citation favorite: je n'en ais pas</p>
+  </div>
+  <h6>mes réseaux sociaux</h6>
+  <div>
+    <div>
+      <p>nom du compte : </p>
+    </div>
+  </div>
+  <div>
+    <p>le farmeur (est un forceur)#2027</p>
+    <p>logo : </p>
+    <img src="disc.jpg" height="50px">
+  </div>
+  <div>
+
+
+  </div>
+
+  <div>
+
+    <div>
+      <img src="git.jpg" height="20px">
+      <a href="">lien du code source</a>
+    </div>
+
+
+  </div>
+
+</body>
+
+</html>
